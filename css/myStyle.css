@@ -1,7 +1,7 @@
 .myHeader {
-    padding-bottom: 320px;
     padding-top: 30px;
-    
+    padding-bottom: 30px;
+    background-color: rgb(53, 190, 25);
 }
 
 h2 {
@@ -11,6 +11,10 @@ h2 {
 a {
     text-decoration: none;
     color: black;
+}
+
+section {
+    padding-bottom: 20px;
 }
 
 .myProject {
@@ -43,6 +47,7 @@ a {
     background-size: contain;
     padding: 15px;
 }
+
 .myIcon4 {
     background-image: url(../img/github.png);
     background-repeat: no-repeat;
