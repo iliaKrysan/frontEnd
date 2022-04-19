@@ -23,7 +23,7 @@ a {
 }
 
 .myIcon1 {
-    background-image: url(/img/mail.png);
+    background-image: url(../img/mail.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 15px;
@@ -31,20 +31,20 @@ a {
 }
 
 .myIcon2 {
-    background-image: url(/img/vk.png);
+    background-image: url(../img/vk.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 15px;
 }
 
 .myIcon3 {
-    background-image: url(/img/telegram.png);
+    background-image: url(../img/telegram.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 15px;
 }
 .myIcon4 {
-    background-image: url(/img/github.png);
+    background-image: url(../img/github.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 15px;
