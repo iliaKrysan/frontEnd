@@ -1,0 +1,51 @@
+.myHeader {
+    padding-bottom: 320px;
+    padding-top: 30px;
+    
+}
+
+h2 {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.myProject {
+    background-color: #fff8dc;
+    padding-bottom: 30px;
+}
+
+.mySkill {
+    background-color: #fff;
+}
+
+.myIcon1 {
+    background-image: url(/img/mail.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+    margin-top: auto;
+}
+
+.myIcon2 {
+    background-image: url(/img/vk.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+}
+
+.myIcon3 {
+    background-image: url(/img/telegram.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+}
+.myIcon4 {
+    background-image: url(/img/github.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 15px;
+}
